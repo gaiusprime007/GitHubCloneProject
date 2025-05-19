@@ -1,1 +1,1 @@
-Branching, conflict resolution task
+This is the description of my repo
