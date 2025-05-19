@@ -1,2 +1,1 @@
-Branching, conflict resolution task
-Modification in feature-greeting
+This is the description of my repo
